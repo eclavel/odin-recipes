@@ -1,0 +1,29 @@
+.title{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-size: large;
+    font-weight: 800;
+}
+.home-link, 
+.butterFactsLink{
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+    color: ghostwhite;
+    background-color: rgb(255, 0, 230);
+}
+
+.pug-gif{
+    text-align: center;
+}
+.muscle-man{
+    text-align: center;
+}
+body{
+    background-color: bisque;
+}
+.my-mom{
+    text-align: center;
+    font-weight: bold;
+}
